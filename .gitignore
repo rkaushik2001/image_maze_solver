@@ -1,0 +1,6 @@
+.DS_Store
+frames/*
+!frames/.gitkeep
+
+output/*
+!output/.gitkeep
