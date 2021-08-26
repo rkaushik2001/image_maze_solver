@@ -41,7 +41,7 @@ class Maze:
 		self.heuristic = heuristic
 
 		self.frequency = int(self.image.size[0]*self.image.size[1]/50)
-		self.frequency = 1000
+		# self.frequency = 1000
 		self.frameCount = 0
 
 	def closestColor(self,color):
